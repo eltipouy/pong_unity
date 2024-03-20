@@ -1,5 +1,4 @@
-# pong_en_20min
+# 🤖 JUEGO | PONG | ING EN VIDEOJUEGOS 🎮
+¡Bienvenidos al ejercicio de Pong en Unity! Este código fue creado especialmente para estudiantes de INGENIERÍA EN VIDEOJUEGOS como parte de la materia de Unity Aplicada en Videojuegos. 🤖
 
-a ver que onda con esto
-
-Ok me sirve
+Este ejercicio les permitirá a los estudiantes construir un juego del genero Arkanoid usando la paltaforma Unity. 🚀🎮
